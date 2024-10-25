@@ -1,5 +1,5 @@
-
 # API de Operações Matemáticas
+![exemplo](https://github.com/user-attachments/assets/480d482d-4e63-4ae9-9e71-02792af1661f)
 
 ## Tecnologias Utilizadas
 - Node.js
